@@ -1,7 +1,7 @@
 # Gree-Wired-Proto
 
 ## Overview
-There are model of Gree AC that can be controller by XK19 Wired Controller or simmilar.
+There are models of Gree AC that can be controller by XK19 Wired Controller or simmilar.
 But there is not option to controll them wirelessly for home automation (except IR blasters).
 The purpose of this repo is to describe protocol details between indoor unit and wired remote.
 
