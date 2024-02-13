@@ -11,7 +11,7 @@ The unit is connected with the remote using 4 wires: `GND`, `12V`, `A`, `B`.
 `A` and `B` is a `RS-485` communication bus.
 
 ## Protocol
-[!PulseView](img/pulseview.png)
+![PulseView](img/pulseview.png)
 Serial communication settings used on the bus are 1200 baud, 8N1. 
 The protocol can be described as follows:
 
